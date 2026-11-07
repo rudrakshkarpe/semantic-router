@@ -251,6 +251,7 @@ const sidebars: SidebarsConfig = {
           items: [
             'tutorials/global/api-and-observability',
             'tutorials/global/stores-and-tools',
+            'tutorials/global/connect-remote-mcp',
             'tutorials/global/vela-models',
             'tutorials/global/model-runtime',
           ],
